@@ -1,0 +1,32 @@
+development:
+  # the jquery_sdk version you want to use, read up on it here:
+  # https://transloadit.com/blog/2013/02/transloadit-javascript-plugin-and-jquery-1-9
+  # defaults to latest
+  # use "v1.0.0" if you need IE6 support (using jQuery < 1.9)
+  jquery_sdk_version: 'latest'
+  auth:
+    key     : <%= Rails.application.secrets.transloadit_public_key %>
+    secret  : <%= Rails.application.secrets.transloadit_secret_key %>
+    duration: 1800 # 30 minute validity period for signed upload forms
+
+  templates:
+    avatar  : b40c47f0f95c11e6900f1d521d8bd16e
+    cover   : ab1ed1d0f95c11e6bbaa8d6944773db7
+    photo   : 97096d30b46911e3a8ea4dea2d8b4ca5
+
+
+production:
+  # the jquery_sdk version you want to use, read up on it here:
+  # https://transloadit.com/blog/2013/02/transloadit-javascript-plugin-and-jquery-1-9
+  # defaults to latest
+  # use "v1.0.0" if you need IE6 support (using jQuery < 1.9)
+  jquery_sdk_version: 'latest'
+  auth:
+    key     : <%= Rails.application.secrets.transloadit_public_key %>
+    secret  : <%= Rails.application.secrets.transloadit_secret_key %>
+    duration: 1800 # 30 minute validity period for signed upload forms
+
+  templates:
+    avatar  : 21f67a9669f448bcd7031da35b2cf614
+    cover   : 979e408b97328753c8243edc8c780992
+    photo   : 37cdecd00b4911e795bf257a007b406c

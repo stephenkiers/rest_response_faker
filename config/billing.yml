@@ -1,0 +1,319 @@
+development:
+  plans:
+    other:
+      currency: usd
+      premium_cost: 999
+    australia:
+       currency: aud
+       premium_cost: 999
+    canada:
+      currency: cad
+      premium_cost: 999
+    new_zealand:
+      currency: nzd
+      premium_cost: 999
+    united_kingdom:
+      currency: gbp
+      premium_cost: 750
+    united_states:
+      currency: usd
+      premium_cost: 999
+    andorra:
+      currency: eur
+      premium_cost: 999
+    austria:
+      currency: eur
+      premium_cost: 999
+    belgium:
+      currency: eur
+      premium_cost: 999
+    cyprus:
+      currency: eur
+      premium_cost: 999
+    estonia:
+      currency: eur
+      premium_cost: 999
+    finland:
+      currency: eur
+      premium_cost: 999
+    france:
+      currency: eur
+      premium_cost: 999
+    germany:
+      currency: eur
+      premium_cost: 999
+    greece:
+      currency: eur
+      premium_cost: 999
+    kosovo:
+      currency: eur
+      premium_cost: 999
+    ireland:
+      currency: eur
+      premium_cost: 999
+    italy:
+      currency: eur
+      premium_cost: 999
+    latvia:
+      currency: eur
+      premium_cost: 999
+    lithuania:
+      currency: eur
+      premium_cost: 999
+    luxembourg:
+      currency: eur
+      premium_cost: 999
+    malta:
+      currency: eur
+      premium_cost: 999
+    monaco:
+      currency: eur
+      premium_cost: 999
+    montenegro:
+      currency: eur
+      premium_cost: 999
+    netherlands:
+      currency: eur
+      premium_cost: 999
+    portugal:
+      currency: eur
+      premium_cost: 999
+    san_marino:
+      currency: eur
+      premium_cost: 999
+    slovakia:
+      currency: eur
+      premium_cost: 999
+    slovenia:
+      currency: eur
+      premium_cost: 999
+    spain:
+      currency: eur
+      premium_cost: 999
+  taxes:
+    canada:
+      alberta:                    5
+      british_columbia:           12
+      manitoba:                   13
+      new_brunswich:              15
+      newfoundland_and_labrador:  15
+      nova_scotia:                15
+      nunavut:                    5
+      ontario:                    13
+      prince_edward_island:       15
+      quebec:                     14.975
+      saskatchewan:               10
+      yukon:                      5
+production:
+  plans:
+    other:
+      currency: usd
+      premium_cost: 999
+    australia:
+       currency: aud
+       premium_cost: 999
+    canada:
+      currency: cad
+      premium_cost: 999
+    new_zealand:
+      currency: nzd
+      premium_cost: 999
+    united_kingdom:
+      currency: gbp
+      premium_cost: 750
+    united_states:
+      currency: usd
+      premium_cost: 999
+    andorra:
+      currency: eur
+      premium_cost: 999
+    austria:
+      currency: eur
+      premium_cost: 999
+    belgium:
+      currency: eur
+      premium_cost: 999
+    cyprus:
+      currency: eur
+      premium_cost: 999
+    estonia:
+      currency: eur
+      premium_cost: 999
+    finland:
+      currency: eur
+      premium_cost: 999
+    france:
+      currency: eur
+      premium_cost: 999
+    germany:
+      currency: eur
+      premium_cost: 999
+    greece:
+      currency: eur
+      premium_cost: 999
+    kosovo:
+      currency: eur
+      premium_cost: 999
+    ireland:
+      currency: eur
+      premium_cost: 999
+    italy:
+      currency: eur
+      premium_cost: 999
+    latvia:
+      currency: eur
+      premium_cost: 999
+    lithuania:
+      currency: eur
+      premium_cost: 999
+    luxembourg:
+      currency: eur
+      premium_cost: 999
+    malta:
+      currency: eur
+      premium_cost: 999
+    monaco:
+      currency: eur
+      premium_cost: 999
+    montenegro:
+      currency: eur
+      premium_cost: 999
+    netherlands:
+      currency: eur
+      premium_cost: 999
+    portugal:
+      currency: eur
+      premium_cost: 999
+    san_marino:
+      currency: eur
+      premium_cost: 999
+    slovakia:
+      currency: eur
+      premium_cost: 999
+    slovenia:
+      currency: eur
+      premium_cost: 999
+    spain:
+      currency: eur
+      premium_cost: 999
+  taxes:
+    canada:
+      alberta:                    5
+      british_columbia:           12
+      manitoba:                   13
+      new_brunswich:              15
+      newfoundland_and_labrador:  15
+      nova_scotia:                15
+      nunavut:                    5
+      ontario:                    13
+      prince_edward_island:       15
+      quebec:                     14.975
+      saskatchewan:               10
+      yukon:                      5
+
+test:
+  plans:
+    other:
+      currency: usd
+      premium_cost: 999
+    australia:
+       currency: aud
+       premium_cost: 999
+    canada:
+      currency: cad
+      premium_cost: 999
+    new_zealand:
+      currency: nzd
+      premium_cost: 999
+    united_kingdom:
+      currency: gbp
+      premium_cost: 750
+    united_states:
+      currency: usd
+      premium_cost: 999
+    andorra:
+      currency: eur
+      premium_cost: 999
+    austria:
+      currency: eur
+      premium_cost: 999
+    belgium:
+      currency: eur
+      premium_cost: 999
+    cyprus:
+      currency: eur
+      premium_cost: 999
+    estonia:
+      currency: eur
+      premium_cost: 999
+    finland:
+      currency: eur
+      premium_cost: 999
+    france:
+      currency: eur
+      premium_cost: 999
+    germany:
+      currency: eur
+      premium_cost: 999
+    greece:
+      currency: eur
+      premium_cost: 999
+    kosovo:
+      currency: eur
+      premium_cost: 999
+    ireland:
+      currency: eur
+      premium_cost: 999
+    italy:
+      currency: eur
+      premium_cost: 999
+    latvia:
+      currency: eur
+      premium_cost: 999
+    lithuania:
+      currency: eur
+      premium_cost: 999
+    luxembourg:
+      currency: eur
+      premium_cost: 999
+    malta:
+      currency: eur
+      premium_cost: 999
+    monaco:
+      currency: eur
+      premium_cost: 999
+    montenegro:
+      currency: eur
+      premium_cost: 999
+    netherlands:
+      currency: eur
+      premium_cost: 999
+    portugal:
+      currency: eur
+      premium_cost: 999
+    san_marino:
+      currency: eur
+      premium_cost: 999
+    slovakia:
+      currency: eur
+      premium_cost: 999
+    slovenia:
+      currency: eur
+      premium_cost: 999
+    spain:
+      currency: eur
+      premium_cost: 999
+  taxes:
+    canada:
+      alberta:                    5
+      british_columbia:           12
+      manitoba:                   13
+      new_brunswich:              15
+      newfoundland_and_labrador:  15
+      nova_scotia:                15
+      nunavut:                    5
+      ontario:                    13
+      prince_edward_island:       15
+      quebec:                     14.975
+      saskatchewan:               10
+      yukon:                      5

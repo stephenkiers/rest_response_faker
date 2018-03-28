@@ -1,0 +1,25 @@
+development:
+  avatar:
+    - https://d1vq0u90j1dn87.cloudfront.net
+  cover:
+    - https://d2v63phv5zh767.cloudfront.net
+  photo:
+    - https://d1lu8a2v26jj5e.cloudfront.net
+    - https://d3c2u7l9yp1oc3.cloudfront.net
+    - https://d27h69np9mqkpb.cloudfront.net
+
+production:
+  avatar:
+    - https://d1pp0gtyxhth78.cloudfront.net
+    - https://d10x9fr1zjlmlr.cloudfront.net
+  cover:
+    - https://d327a5vqoj65dv.cloudfront.net
+    - https://d1fecf5bh975ve.cloudfront.net
+  photo:
+    - https://d39stb0202hpvj.cloudfront.net
+    - https://d2x4ozn3wt90vq.cloudfront.net
+    - https://dbox3cki4f9sn.cloudfront.net
+    - https://d2ff95l1mszulg.cloudfront.net
+    - https://deaa9g2hzkc7q.cloudfront.net
+    - https://d2k8vk5tn87sw3.cloudfront.net
+
