@@ -5,7 +5,7 @@ class CodeController < ApplicationController
   end
   def code404
     delay
-    render json: {code: 500} , :status => 500, :content_type => 'text/html'
+    render json: {code: 404} , :status => 404, :content_type => 'text/html'
   end
   def code500
     delay
